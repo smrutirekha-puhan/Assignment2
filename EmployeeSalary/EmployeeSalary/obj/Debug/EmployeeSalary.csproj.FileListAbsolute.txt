@@ -1,0 +1,6 @@
+C:\Users\SMRUTI\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe.config
+C:\Users\SMRUTI\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe
+C:\Users\SMRUTI\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+C:\Users\SMRUTI\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csprojAssemblyReference.cache
+C:\Users\SMRUTI\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.exe
+C:\Users\SMRUTI\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.pdb
